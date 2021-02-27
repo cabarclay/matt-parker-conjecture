@@ -1,9 +1,32 @@
-# Matt Parker Conjecture
+Matt Parker Conjecture
+======================
 
-This is an attempt to extend the work done by Matt Parker 
+    this is an attempt to extend the work done by matt parker. my
+first attempt actually calculated pi^pi^n, n in [1, 10]. once i get
+pi^pi^pi^... i will continue using rust to calculate pi^pi^pi... for
+truncated values of pi, then analyse the data using r so i can make
+pretty graphs and such like.
 
 
-# Sources
+Sources
+=======
 
-I didn't really know much of what I was doing, aside from the ths, so found the following articles to help
- - https://blog.demofox.org/2017/11/21/floating-point-precision/
+    in terms of libraries, i am using rug
+[https://gitlab.com/tspiteri/rug] to deal with the heavy amount of
+numbers
+
+    i didn't really know much of what i was doing, aside from the
+maths [or so i thought] so i found a nice article to help:
+[https://blog.demofox.org/2017/11/21/floating-point-precision/]
+
+    despite this, im still not certain if one hundred million bits
+of precision on the floats is necessary, so im figuring that despite
+it taking forever to calculate, better safe than sorry - i want good
+numbers :)
+
+
+License
+=======
+
+    this is maths, so do whatever the fuck you want with anything
+here. see the LICENSE file for more information.
