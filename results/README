@@ -1,0 +1,6 @@
+./results_pi_pi_n -> first attempt failed, instead calculated pi^pi^n
+                     results have been kept because even though it's
+                     not what was wanted, they're still interesting.
+
+                     will commit the code for the sake of keeping it
+                     about anyway.
