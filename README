@@ -2,10 +2,10 @@ Matt Parker Conjecture
 ======================
 
     this is an attempt to extend the work done by matt parker. my
-first attempt actually calculated pi^pi^n, n in [1, 10]. once i get
-pi^pi^pi^... i will continue using rust to calculate pi^pi^pi... for
-truncated values of pi, then analyse the data using r so i can make
-pretty graphs and such like.
+first attempt actually calculated pi^pi^n, n in [1, 10]. [7fdd235]
+once i get pi^pi^pi^... i will continue using rust to calculate 
+pi^pi^pi... for truncated values of pi, then analyse the data using r
+so i can make pretty graphs and such like.
 
 
 Sources
